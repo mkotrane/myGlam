@@ -1,0 +1,398 @@
+
+.navbar-collapse {
+  -ms-flex-preferred-size: 100%;
+  flex-basis: 100%;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 0;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+
+  color: white;
+}
+
+
+.bg{
+    background-image: url(./img/slider_image_home@2x.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+   
+  }
+
+.img{
+    width: 170px;
+    height: auto;
+    margin-top: 20px;
+  }
+  a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.txt1{
+    color: white;
+margin-top: 300px;
+font-size: 30px;
+
+}
+
+.p1{
+    color: white;
+
+}
+
+.btn2{
+margin-top: 30px;
+border-color: white;  
+border-width: 2px;  
+color: white;
+width: 30%; /* always in % for responsive and we remove height */
+font-size: 18px;
+}
+
+.btn2:hover {
+    background-color: rgb(210, 34, 45);
+    color: white;
+    border:none;
+  }
+
+  .btn3{
+    margin-top: 30px;
+    background-color: rgb(210, 34, 45);
+    border-width: 2px;  
+    color: white;
+    width: 40%;
+   
+    font-size: 18px;
+    border: none;
+    }
+
+.scroll{
+
+height: 35px;
+margin-top:80px;
+
+}
+
+.txt2{
+color:rgb(210, 34, 45);
+margin-top:44px;
+font-size: 20px;
+font-weight:500;
+
+}
+
+.bg2{
+background-color: rgb(214, 210, 205);
+height: 900px;
+
+}
+
+.style1{
+width: 140px;
+border-top: 2px solid rgb(210, 34, 45);
+margin-top: -10px;
+}
+
+
+  
+.style2{
+  width: 80px;
+  border-top: 2px solid rgb(210, 34, 45);
+  margin-top: -10px;
+  }
+
+h1{
+    color: white;
+    font-size: 2.25em;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    text-shadow: 0px 2px 0px rgba(0, 0, 0, 1);
+  }
+
+h5{
+
+text-align: center;
+
+  }
+
+.card-text {
+text-align: center;
+color: gray;
+margin-top: 30px;
+}
+
+
+.carousel-inner{
+margin-top: 100px;
+  
+}
+
+.card-body{
+  background-color: rgb(214, 210, 205);
+
+}
+.card {
+border: 0px;
+
+}
+
+.carousel-control-prev{
+
+  bottom: 230px;
+
+}
+.carousel-control-next{
+  bottom: 230px;
+}
+
+.bg3{
+
+  background-image: url(./img/recomended_background_image@1x.png);
+  width: 100%;
+  height: 506px;
+  background-size: cover;
+}
+.margin{
+  margin-top: -30px;
+  padding-top: 70px;
+}
+.txt3{
+color: white;
+margin-top: 30px;
+font-size: 25px;
+}
+.style3{
+  width: 80px;
+  border-top: 2px solid white;
+  margin-top: -10px;
+  }
+
+
+.img4{
+
+margin-top: 70px; 
+
+}
+.txt4{
+  color: white;
+  margin-top: 88px;
+  font-size: 18px;
+  }
+
+.center-content{
+
+  text-align: center;
+}
+
+.row-margin{
+margin-top: 120px;
+
+}
+
+.how-text{
+margin-top: 30px;
+color:  gray;
+font-size: 16px;
+}
+.btn5{
+  background-color: rgb(210, 34, 45);
+  color: white;
+  width: 30%;
+  font-size: 18px;
+  margin-top: 30px;
+  height: 40px;
+  }
+
+  .btn6{
+    background-color: rgb(210, 34, 45);
+    color: white;
+    width: 60%;
+    font-size: 18px;
+    margin-top: 50px;
+    border: none;
+    margin-bottom: 60px;
+    height: 40px;
+    }
+  
+
+  .bg4{
+    background-color: rgb(214, 210, 205);
+    
+    margin-top: 60px;
+ 
+
+    }
+.tt{
+  z-index: 6;
+}
+.txt5 {
+  color: gray;
+  margin-top: 170px;
+  font-size: 15px;
+  }
+
+  .img-phone {
+
+    margin-top: 35px;
+    margin-bottom: 60px;
+  
+
+  }
+
+  .bgfooter{
+
+    background-image: url(./img/news_letter_background_image_home@1x.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+padding: 30px;
+  }
+
+  .txt6{
+    color: white;
+  
+    font-size: 15px;
+    }
+
+.mari{
+  margin-right: 50%
+
+}
+.pp{
+  text-align: center;
+  margin-top: 50px;
+
+  max-width: 56%;
+}
+
+.btn-outline-secondary {
+      color: white;
+      background-color: rgb(26, 22, 22);
+      background-image: none;
+   
+  }
+  .imgav {
+
+    width: 80%;
+    margin-top: 30px;
+  }
+  .imgav1 {
+
+    width: 80%;
+    margin-top: 30px;
+  }
+  .inpt1{
+margin-top: 30px;
+width: 60%;
+text-align: center;
+  }
+.nav2{
+margin-top: 70px;
+
+}
+.correct-margin {
+
+  margin-right:0px;
+}
+
+.icons {
+
+  margin-top: 80px;
+}
+
+.iconfb {
+width: 10%;
+
+}
+
+
+.icontwitter {
+  width: 30%;
+  
+  }
+
+  .iconyt {
+    width: 20%;
+    
+    }
+.classnew {
+padding-left: 50%;
+
+}
+  @media (max-width: 600px) {
+    .text-yessghar {
+      font-size: 14px;
+    }
+  }/* naamelha ki page mte3i tessghar w maadech yappliki f les class css, dnc ki nsagher l écran w youssel l 600px , text zeda yessghar mta3 l bouton, pask kbila ken yokhrej ala lajneb mtaa l bouton */
+
+@media (min-width: 768px) {
+    /* show 3 items */
+    .carousel-inner .active,
+    .carousel-inner .active + .carousel-item,
+    .carousel-inner .active + .carousel-item + .carousel-item {
+      display: block;
+    }
+  
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left),
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item,
+    .carousel-inner .carousel-item.active:not(.carousel-item-right):not(.carousel-item-left) + .carousel-item + .carousel-item {
+      transition: none;
+    }
+  
+    .carousel-inner .carousel-item-next,
+    .carousel-inner .carousel-item-prev {
+      position: relative;
+      transform: translate3d(0, 0, 0);
+    }
+  
+    .carousel-inner .active.carousel-item + .carousel-item + .carousel-item + .carousel-item {
+      position: absolute;
+      top: 0;
+      right: -33.3333%;
+      z-index: -1;
+      display: block;
+      visibility: visible;
+    }
+  
+    /* left or forward direction */
+    .active.carousel-item-left + .carousel-item-next.carousel-item-left,
+    .carousel-item-next.carousel-item-left + .carousel-item,
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item,
+    .carousel-item-next.carousel-item-left + .carousel-item + .carousel-item + .carousel-item {
+      position: relative;
+      transform: translate3d(-100%, 0, 0);
+      visibility: visible;
+    }
+  
+    /* farthest right hidden item must be abso position for animations */
+    .carousel-inner .carousel-item-prev.carousel-item-right {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: -1;
+      display: block;
+      visibility: visible;
+    }
+  
+    /* right or prev direction */
+    .active.carousel-item-right + .carousel-item-prev.carousel-item-right,
+    .carousel-item-prev.carousel-item-right + .carousel-item,
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item,
+    .carousel-item-prev.carousel-item-right + .carousel-item + .carousel-item + .carousel-item {
+      position: relative;
+      transform: translate3d(100%, 0, 0);
+      visibility: visible;
+      display: block;
+      visibility: visible;
+    }
+  }
